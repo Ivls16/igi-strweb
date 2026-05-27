@@ -1,0 +1,12 @@
+Total sentences: 4
+Narrative: 2, Interrogative: 0, Exclamatory: 2
+Avg sentence length (chars in words): 12.25
+Avg word length: 3.50
+Smileys found: 1
+
+--- Variant Results ---
+Sentences with spaces, digits, and punctuation: 1
+Valid dates found: ['07/04/2026']
+Case count: Upper=4, Lower=37
+First 'z' word: Amazing at position 11
+Text with words starting with 'a' removed (saved to file).
